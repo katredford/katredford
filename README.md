@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/katieredf0rd)
 [Portfolio](https://katredford.github.io/redford-portfolio/)
-
+[Portfolio](https://katredford.github.io/redford-portfolio/)
 <!--
 **katredford/katredford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
