@@ -1,5 +1,5 @@
 # Hi, I'm Katie! 👋
-![katredford's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![katredford's Stats](https://github-readme-stats.vercel.app/api?username=katredford&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 [LinkedIn](https://www.linkedin.com/in/katieredf0rd)  
 
